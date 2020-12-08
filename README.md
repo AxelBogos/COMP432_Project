@@ -6,10 +6,7 @@
 Axel Bogos - 40077502 <br>
 
 ---
-## Preliminary Information
 
-
----
 ## Structure
 The following directory structure is assumed: 
 ```
