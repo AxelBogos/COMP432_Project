@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*.zip
+/models
+/runs
+/cache_dir
+*.icloud
+*.pb
+*.index
+
 # C extensions
 *.so
 
