@@ -62,5 +62,4 @@ Unless otherwise mentioned, models are saved in the eponymous directory. Noteboo
 
 * ELECTRA.ipynb : This notebooks reads the processed data, splits it in the expected format for the model and trains an ELECTRA model. This notebook was ran on Google Collab.
 
-
 ---
