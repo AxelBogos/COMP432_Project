@@ -1,4 +1,4 @@
-# :beers: COMP 432 – Project :tiger:
+# COMP 432 – Project :tiger:
 
 [Repo URL](https://github.com/AxelBogos/COMP432_Project) <br>
 [Drive  with notebooks, data and models that are not too big](https://drive.google.com/drive/folders/1nTKjXKobiQYIKER-sZe7c9Iv9b9Ns5tH?usp=sharing) <br>
